@@ -1,3 +1,3 @@
-from .storage import Storage
+from .importLib import importLib
 
-stora = Storage
+importLib()
