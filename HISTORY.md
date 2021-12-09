@@ -9,3 +9,13 @@ Release History
 - Initalize `README.md`
 
 - Initalize `dypend` library
+
+**Feature**
+
+- Main dypend code completed
+
+- README.en completed
+
+**TEST**
+
+- dypend import test
